@@ -7,6 +7,11 @@
 
 body {
     background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5rem;
 }
 
 .logo {
@@ -31,7 +36,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 5rem;
  }
 #login-form{
     display: flex;
@@ -109,8 +113,8 @@ a{
 }
 
 @media (max-width: 480px) {
-    .form-container{
-        margin-top: 2rem;
+    body{
+        gap: 1rem;
     }
     #login-form{
         width: 20rem;
