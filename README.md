@@ -36,4 +36,4 @@ JavaScript – For dynamic content, form validation, and interactivity<br>
 
 Demo link : <br>
 
-Screen shot : <br>![alt text](image.png)
+Screen shot : <br><br>![alt text](image.png)
