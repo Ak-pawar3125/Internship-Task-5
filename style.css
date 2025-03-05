@@ -110,13 +110,10 @@ a{
 
 @media (max-width: 480px) {
     .form-container{
-        margin-top: 3rem;
+        margin-top: 1rem;
     }
     #login-form{
         width: 20rem;
-    }
-    #logHeading{
-        margin-left: 6rem;
     }
     #pass-sec{
         gap: 10rem;

@@ -120,3 +120,15 @@ a {
     align-items: center;
     margin-right: 1rem;
 }
+
+@media (max-width: 480px) {
+    .form-container{
+        margin-top: 2rem;
+    }
+    #login-form{
+        width: 20rem;
+    }
+    #pass-sec{
+        gap: 10rem;
+    }
+}
