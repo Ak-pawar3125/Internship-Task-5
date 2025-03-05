@@ -34,6 +34,6 @@ JavaScript – For dynamic content, form validation, and interactivity<br>
 
 # Demo link and Screenshot
 
-Demo link : <br>
+Demo link : https://akanksha-internship-task-5.netlify.app/<br>
 
 Screen shot : <br><br>![alt text](image.png)
